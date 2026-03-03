@@ -1,0 +1,490 @@
+Year,Latitude,Longitude,City,Region,Cuisine,Price,Stars
+2024,13.72725,100.57828,Bangkok,Thailand,"Indian, Contemporary",4,2
+2024,13.75155,100.60551,Bangkok,Thailand,Thai contemporary,4,2
+2024,13.7108084,100.5457264,Bangkok,Thailand,"German, Contemporary",4,2
+2024,13.7215006,100.5171696,Bangkok,Thailand,French Contemporary,4,2
+2024,13.713092,100.510847,Bangkok,Thailand,Modern Cuisine,4,2
+2024,13.731805,100.57972,Bangkok,Thailand,Thai,4,2
+2024,13.7221259,100.516932,Bangkok,Thailand,French Contemporary,4,2
+2024,36.74161,-5.16655,Ronda,Spain,Creative,4,2
+2024,42.3257846,-3.0144146,Ezcaray,Spain,"Creative, Modern Cuisine",4,2
+2024,28.1018325,-16.7535126,Adeje,Spain,Creative,4,2
+2024,43.3168594,-1.9859469,Donostia / San Sebastián,Spain,"Creative, Italian and Japanese",4,2
+2024,39.469784,-0.3745175,Valencia,Spain,Creative,4,2
+2024,43.0334653,-8.8038837,Santa Comba,Spain,Modern Cuisine,4,2
+2024,39.48512,-0.3852003,Valencia,Spain,Creative,4,2
+2024,40.4158561,-3.6928119,Madrid,Spain,Creative,4,2
+2024,41.9877609,3.0160537,Corçà,Spain,"Creative, Mediterranean Cuisine",4,2
+2024,40.430643,-3.690676,Madrid,Spain,Creative,4,2
+2024,40.4176733,-3.7002477,Madrid,Spain,Creative,4,2
+2024,42.3710822,3.1601265,Llançà,Spain,"Creative, Catalan",4,2
+2024,40.4385556,-3.691358,Madrid,Spain,Contemporary,4,2
+2024,41.3784999,2.1521767,Barcelona,Spain,Creative,4,2
+2024,39.6690394,3.4395565,Canyamel,Spain,Modern Cuisine,4,2
+2024,42.40942,-8.75447,Raxó,Spain,Creative,4,2
+2024,41.3867832,2.1969283,Barcelona,Spain,Modern Cuisine,4,2
+2024,42.909132,-1.533913,Urdaitz,Spain,Creative,4,2
+2024,38.8696375,-1.0910555,Almansa,Spain,"Creative, Castilian",3,2
+2024,40.4284323,-3.6861735,Madrid,Spain,Creative,4,2
+2024,36.346905,-6.1641536,Chiclana de la Frontera,Spain,Creative,4,2
+2024,38.7570756,-0.4451945,Cocentaina,Spain,"Creative, Mediterranean Cuisine",4,2
+2024,38.7701412,0.148496,Xàbia,Spain,Creative,4,2
+2024,40.4246847,-3.6962925,Madrid,Spain,Creative,4,2
+2024,36.5116735,-4.9012506,Marbella,Spain,Modern Cuisine,4,2
+2024,42.3715602,-2.5805894,Daroca de Rioja,Spain,Modern Cuisine,4,2
+2024,37.92464,-1.163767,El Palmar,Spain,Creative,4,2
+2024,42.1946503,2.5009,Olot,Spain,Creative,4,2
+2024,43.2722067,-1.9171152,Errenteria,Spain,Innovative,4,2
+2024,39.8619154,-4.0462052,Toledo,Spain,Modern Cuisine,4,2
+2024,42.4752854,-8.8957637,O Grove,Spain,Creative,4,2
+2024,28.171041,-16.799017,Guía de Isora,Spain,Creative,4,2
+2024,36.6876345,-6.1357554,Jerez de la Frontera,Spain,Modern Cuisine,4,2
+2024,31.242798,121.482315,Shanghai,China Mainland,Cantonese,4,2
+2024,31.204708,121.47799,Shanghai,China Mainland,Cantonese,2,2
+2024,31.229464,121.492954,Shanghai,China Mainland,Italian,4,2
+2024,31.22789,121.45071,Shanghai,China Mainland,Taizhou,4,2
+2024,31.2205002,121.4250678,Shanghai,China Mainland,Vegetarian,4,2
+2024,31.244394,121.48346,Shanghai,China Mainland,Italian,4,2
+2024,31.2425862,121.4844198,Shanghai,China Mainland,Cantonese,3,2
+2024,31.206108,121.448654,Shanghai,China Mainland,Cantonese,3,2
+2024,31.2423721,121.4854918,Shanghai,China Mainland,Cantonese,4,2
+2024,3.1546497,101.7185414,Kuala Lumpur,Malaysia,"Malaysian, Contemporary",3,2
+2024,43.4221,11.1165,Colle di Val d'Elsa,Italy,"Creative, Country cooking",4,2
+2024,36.9267762,14.7408182,Ragusa,Italy,"Contemporary, Creative",4,2
+2024,45.6497242,13.7675069,Trieste,Italy,"Italian Contemporary, Mediterranean Cuisine",4,2
+2024,40.6606947,14.419559,Vico Equense,Italy,Creative,4,2
+2024,37.8554565,15.2900353,Taormina,Italy,"Creative, Contemporary",4,2
+2024,46.1021988,13.2661162,Godia,Italy,"Country cooking, Modern Cuisine",4,2
+2024,44.5942745,8.0002065,Serralunga d'Alba,Italy,"Creative, Contemporary",4,2
+2024,42.6220221,11.4906283,Montemerano,Italy,"Tuscan, Contemporary",4,2
+2024,45.4694121,9.1910082,Milan,Italy,"International, Contemporary",4,2
+2024,37.1070131,13.9338055,Licata,Italy,"Creative, Sicilian",4,2
+2024,43.6806944,13.2821211,Marzocca,Italy,"Creative, Contemporary",4,2
+2024,43.08386,11.422479,Montalcino,Italy,"Contemporary, Tuscan",4,2
+2024,46.6862223,11.1568653,Tirol,Italy,"Creative, International",4,2
+2024,45.693253,10.669477,Gargnano,Italy,"Creative, Contemporary",4,2
+2024,41.89793,12.4673729,Rome,Italy,"Creative, Innovative",4,2
+2024,45.0271679,8.2778294,Cioccaro,Italy,"Piedmontese, Modern Cuisine",4,2
+2024,43.7717322,11.2558883,Florence,Italy,"Creative, Mediterranean Cuisine",4,2
+2024,44.3557172,11.7124431,Imola,Italy,Classic Cuisine,4,2
+2024,45.3848934,11.3990641,Lonigo,Italy,"Modern Cuisine, Contemporary",4,2
+2024,40.7302578,13.9487527,Ischia,Italy,"Contemporary, Creative",4,2
+2024,46.6521107,11.3221975,Sarentino,Italy,"Creative, Regional Cuisine",4,2
+2024,41.916491,12.4693268,Rome,Italy,"Mediterranean Cuisine, Creative",4,2
+2024,40.9083323,14.4232938,Brusciano,Italy,"Contemporary, Creative",4,2
+2024,41.2045624,14.5000207,Telese,Italy,"Creative, Contemporary",4,2
+2024,43.8809756,10.2355866,Viareggio,Italy,"Creative, Contemporary",4,2
+2024,45.4648103,9.189585,Milan,Italy,"Creative, Mediterranean Cuisine",4,2
+2024,45.3881476,12.1302222,Lughetto,Italy,"Seafood, Modern Cuisine",4,2
+2024,44.63505,7.788635,Cervere,Italy,"Piedmontese, Modern Cuisine",4,2
+2024,45.4413057,12.3298209,Venice,Italy,"Creative, Contemporary",4,2
+2024,45.4734602,9.2042705,Milan,Italy,"Italian Contemporary, Creative",4,2
+2024,45.6135819,10.2043986,Concesio,Italy,"Italian Contemporary, French",4,2
+2024,41.9086474,12.4753719,Rome,Italy,"Creative, Mediterranean Cuisine",4,2
+2024,45.48711,9.01175,Cornaredo,Italy,"Creative, Italian Contemporary",4,2
+2024,40.5559154,14.2220085,Anacapri,Italy,"Italian Contemporary, Creative",4,2
+2024,44.0731058,12.3498464,Longiano,Italy,"Creative, Contemporary",4,2
+2024,40.7018717,14.4829218,Castellammare di Stabia,Italy,"Creative, Contemporary",4,2
+2024,45.7105439,9.648062,Bergamo,Italy,Creative,4,2
+2024,40.8372677,14.2300686,Naples,Italy,Contemporary,4,2
+2024,47.0552386,8.3197697,Lucerne,Switzerland,"Modern French, Seasonal Cuisine",4,2
+2024,47.0169188,8.6659803,Schwyz,Switzerland,"Modern Cuisine, Seasonal Cuisine",4,2
+2024,47.390711,8.1736346,Lenzburg,Switzerland,"Modern Cuisine, Creative",4,2
+2024,46.4886078,7.2085597,Rougemont,Switzerland,"Modern French, Farm to table",4,2
+2024,46.2121299,6.152408,Geneva,Switzerland,French Contemporary,4,2
+2024,46.5195779,6.6314453,Lausanne,Switzerland,Modern French,4,2
+2024,46.6363781,8.5947275,Andermatt,Switzerland,"Japanese Contemporary, Fusion",4,2
+2024,46.1507302,8.7728734,Ascona,Switzerland,"Mediterranean Cuisine, Seasonal Cuisine",4,2
+2024,47.2238496,6.9572319,Le Noirmont,Switzerland,"Modern French, French",4,2
+2024,46.4998838,9.8468053,Saint Moritz,Switzerland,Italian,4,2
+2024,47.4215599,9.375374,Sankt Gallen,Switzerland,"Creative, Modern Cuisine",4,2
+2024,47.0003991,9.5022986,Bad Ragaz,Switzerland,Creative,4,2
+2024,47.3772343,8.5405447,Zurich,Switzerland,"Creative, Modern Cuisine",4,2
+2024,47.4860199,9.3920453,Freidorf,Switzerland,"Creative, Modern Cuisine",4,2
+2024,46.7775083,9.6690121,Arosa,Switzerland,"Modern Cuisine, Creative",4,2
+2024,47.3719489,8.5437311,Zurich,Switzerland,"Sharing, Modern Cuisine",4,2
+2024,47.3722176,8.5398173,Zurich,Switzerland,"Modern French, Contemporary",4,2
+2024,47.3726725,8.5731534,Zurich,Switzerland,"Creative, Modern Cuisine",4,2
+2024,47.5697547,7.5830618,Basel,Switzerland,"Modern Cuisine, Seasonal Cuisine",4,2
+2024,46.6226102,9.181299,Vals,Switzerland,"Creative, Innovative",4,2
+2024,46.5080909,6.6297747,Lausanne,Switzerland,Creative,4,2
+2024,47.5957416,9.0325819,Wigoltingen,Switzerland,"Creative, Farm to table",4,2
+2024,46.4776485,9.8109132,Saint Moritz,Switzerland,"Creative, Modern Cuisine",4,2
+2024,47.0151885,8.4775489,Vitznau,Switzerland,"Creative, International",4,2
+2024,47.5336861,7.5869107,Basel,Switzerland,"Creative, Modern Cuisine",4,2
+2024,35.668231,139.741089,Tokyo,Japan,"French, Contemporary",4,2
+2024,35.659411,139.726652,Tokyo,Japan,Japanese,4,2
+2024,35.661579,139.716582,Tokyo,Japan,Italian,4,2
+2024,35.647433,139.739938,Tokyo,Japan,Japanese,4,2
+2024,35.671184,139.763104,Tokyo,Japan,Tempura,3,2
+2024,35.68274,139.779323,Tokyo,Japan,French,4,2
+2024,35.649532,139.707611,Tokyo,Japan,Tempura,4,2
+2024,35.718485,139.79699,Tokyo,Japan,"French, Contemporary",4,2
+2024,35.679726,139.737003,Tokyo,Japan,Innovative,4,2
+2024,35.661598,139.743562,Tokyo,Japan,French,3,2
+2024,35.668529,139.761573,Tokyo,Japan,Japanese,4,2
+2024,35.680327,139.735892,Tokyo,Japan,Japanese,4,2
+2024,35.671688,139.763347,Tokyo,Japan,"French, Contemporary",4,2
+2024,35.637444,139.723162,Tokyo,Japan,Tempura,4,2
+2024,35.67321,139.712697,Tokyo,Japan,Japanese,3,2
+2024,35.671381,139.763089,Tokyo,Japan,Japanese,4,2
+2024,35.655769,139.743334,Tokyo,Japan,"French, Contemporary",4,2
+2024,35.658713,139.729049,Tokyo,Japan,Sushi,4,2
+2024,35.671585,139.722147,Tokyo,Japan,Innovative,4,2
+2024,35.673039,139.767805,Tokyo,Japan,Japanese,4,2
+2024,35.664729,139.733371,Tokyo,Japan,"French, Contemporary",3,2
+2024,35.671572,139.774073,Tokyo,Japan,Japanese,4,2
+2024,35.669635,139.734126,Tokyo,Japan,Japanese,3,2
+2024,35.673471,139.710124,Tokyo,Japan,Japanese,4,2
+2024,35.670064,139.762822,Tokyo,Japan,"Spanish, Contemporary",3,2
+2024,35.667938,139.762691,Tokyo,Japan,Sushi,4,2
+2024,39.946681,116.410004,Beijing,China Mainland,Vegetarian,4,2
+2024,39.910623,116.4856,Beijing,China Mainland,Beijing Cuisine,4,2
+2024,39.930881,116.453254,Beijing,China Mainland,Shanghainese,3,2
+2024,39.9106329,116.4570814,Beijing,China Mainland,Shandong,4,2
+2024,52.6601173,6.2466765,Staphorst,Netherlands,"Creative, Seasonal Cuisine",4,2
+2024,52.3676602,4.8942749,Amsterdam,Netherlands,"Contemporary, Creative French",4,2
+2024,52.39688,4.57934,Overveen,Netherlands,Modern Cuisine,4,2
+2024,52.3692878,4.8839959,Amsterdam,Netherlands,"Creative, Classic Cuisine",4,2
+2024,51.903823,4.4715943,Rotterdam,Netherlands,Modern Cuisine,4,2
+2024,51.8473893,5.8595982,Nijmegen,Netherlands,"Organic, Vegan",4,2
+2024,51.4765594,5.5547065,Nuenen,Netherlands,"Creative, Asian Influences",4,2
+2024,51.4571608,4.0241076,Kruiningen,Netherlands,Modern Cuisine,4,2
+2024,52.365853,4.900326,Amsterdam,Netherlands,Creative,4,2
+2024,52.36478,4.89701,Amsterdam,Netherlands,Creative,4,2
+2024,51.3793,5.577939,Heeze,Netherlands,Creative,4,2
+2024,52.7465818,6.0797711,Giethoorn,Netherlands,"Creative, Classic French",4,2
+2024,51.3780193,5.4693081,Waalre,Netherlands,Creative,4,2
+2024,52.3509952,5.6202128,Harderwijk,Netherlands,"Creative, Modern French",4,2
+2024,51.9162456,4.4894221,Rotterdam,Netherlands,Creative French,4,2
+2024,52.3486359,4.8928264,Amsterdam,Netherlands,Creative,4,2
+2024,52.2997964,4.8447563,Amstelveen,Netherlands,"Creative, Modern French",4,2
+2024,50.7967588,5.836146,Reijmerstok,Netherlands,Creative,4,2
+2024,51.9265521,4.4795369,Rotterdam,Netherlands,Creative,4,2
+2024,43.6723401,-79.3958233,Toronto,Canada,Japanese,4,2
+2024,30.5833001,104.060602,Chengdu,China Mainland,Taizhou,4,2
+2024,30.669182,104.055887,Chengdu,China Mainland,Sichuan,4,2
+2024,25.0507432,121.5372068,Taipei,Taiwan,Spanish Contemporary,4,2
+2024,25.0827948,121.5594375,Taipei,Taiwan,Innovative,4,2
+2024,25.0356024,121.5532054,Taipei,Taiwan,Asian Contemporary,3,2
+2024,25.035223,121.54723,Taipei,Taiwan,Tempura,4,2
+2024,25.039609,121.56814,Taipei,Taiwan,French Contemporary,4,2
+2024,37.7902661,-122.4091443,San Francisco,USA,Contemporary,4,2
+2024,34.0338072,-118.2418788,Los Angeles,USA,"Japanese, Seafood",4,2
+2024,37.7795083,-122.4103298,San Francisco,USA,"Contemporary, American",4,2
+2024,34.024204,-118.38166,Culver City,USA,Contemporary,4,2
+2024,34.083576,-118.3301829,Hollywood,USA,Seafood,4,2
+2024,36.55406,-121.924355,Carmel-by-the-Sea,USA,"Contemporary, Californian",4,2
+2024,37.8246825,-122.254846,Oakland,USA,Contemporary,4,2
+2024,37.79167,-122.42131,San Francisco,USA,"Italian, Contemporary",4,2
+2024,34.0245412,-118.4915829,Santa Monica,USA,Modern French,4,2
+2024,37.7602404,-122.4196716,San Francisco,USA,"Contemporary, Modern Cuisine",4,2
+2024,37.7712406,-122.4131414,San Francisco,USA,"Mexican, Contemporary",4,2
+2024,37.7796876,-122.3922217,San Francisco,USA,"Californian, Contemporary",4,2
+2024,39.1355655,-123.7190639,Elk,USA,"Californian, Creative",4,2
+2024,25.114932,55.1391176,Dubai,,Indian,4,2
+2024,25.0992961,55.1326916,Dubai,,French,4,2
+2024,25.2104546,55.2348847,Dubai,,Italian,4,2
+2024,25.0861613,55.1435576,Dubai,,Creative,4,2
+2024,45.0747789,13.6360524,Rovinj,Croatia,"Italian Contemporary, Modern Cuisine",4,2
+2024,1.2789446,103.8414145,Singapore,,Innovative,3,2
+2024,1.293387,103.85314,Singapore,,British Contemporary,3,2
+2024,1.2862377,103.854219,Singapore,,French Contemporary,4,2
+2024,1.2863698,103.854,Singapore,,Sushi,4,2
+2024,1.280977,103.8470099,Singapore,,Innovative,4,2
+2024,1.279414,103.841385,Singapore,,Innovative,4,2
+2024,50.0486603,19.9460552,Krakow,Poland,Creative,4,2
+2024,46.4755987,13.7845892,Kranjska Gora,Slovenia,"Creative, Regional Cuisine",4,2
+2024,23.138026,113.280695,Guangzhou,China Mainland,European Contemporary,4,2
+2024,23.137134,113.327867,Guangzhou,China Mainland,Cantonese,3,2
+2024,23.118473,113.326514,Guangzhou,China Mainland,Cantonese,3,2
+2024,56.124947,10.2089264,Aarhus,Denmark,Creative,4,2
+2024,55.6722948,12.5888136,Copenhagen,Denmark,"Creative, Modern Cuisine",4,2
+2024,59.3207155,18.1237288,Stockholm,Sweden,"Modern Cuisine, Swedish",4,2
+2024,55.6787423,12.5839958,Copenhagen,Denmark,"Modern French, Seasonal Cuisine",4,2
+2024,55.6046461,12.9966201,Malmo,Sweden,Contemporary,4,2
+2024,59.922727,10.7511251,Oslo,Norway,Scandinavian,4,2
+2024,60.1653036,24.9523857,Helsinki,Finland,Modern Cuisine,4,2
+2024,55.7270112,8.2423144,Henne,Denmark,Classic Cuisine,4,2
+2024,55.6954973,12.6001611,Copenhagen,Denmark,Creative,4,2
+2024,59.2843177,17.9857179,Stockholm,Sweden,Creative,4,2
+2024,55.6940951,12.6137461,Copenhagen,Denmark,Innovative,4,2
+2024,55.6831927,12.5889875,Copenhagen,Denmark,Modern Cuisine,4,2
+2024,55.5045412,14.321923,Simrishamn,Sweden,Creative,4,2
+2024,59.4517084,24.7280509,Tallinn,Estonia,"Creative, Contemporary",4,2
+2024,-22.98601,-43.22471,Rio de Janeiro,Brazil,Creative,4,2
+2024,-23.5661451,-46.667572,São Paulo,Brazil,Creative,4,2
+2024,-23.5670869,-46.6790725,São Paulo,Brazil,"Modern Cuisine, Brazilian",4,2
+2024,-23.5805339,-46.6855567,São Paulo,Brazil,Creative,4,2
+2024,-22.95747,-43.194424,Rio de Janeiro,Brazil,Modern Cuisine,4,2
+2024,-22.9532398,-43.1964089,Rio de Janeiro,Brazil,"Modern Cuisine, Innovative",4,2
+2024,19.4324232,-99.1947841,Miguel Hildalgo,Mexico,"Mexican, Modern Cuisine",4,2
+2024,19.4310167,-99.1916968,Miguel Hildalgo,Mexico,"Contemporary, Mexican",4,2
+2024,34.692643,135.753435,Nara,Japan,Japanese,3,2
+2024,34.675974,135.834095,Nara,Japan,Japanese,3,2
+2024,34.686899,135.829383,Nara,Japan,Japanese,3,2
+2024,34.68575,135.835467,Nara,Japan,Innovative,3,2
+2024,25.814444,-80.1921438,Miami,USA,"French, Contemporary",4,2
+2024,34.686929,135.510132,Osaka,Japan,Japanese,4,2
+2024,34.71394,135.511084,Osaka,Japan,Japanese,4,2
+2024,35.002587,135.776068,Kyoto,Japan,Japanese,4,2
+2024,34.698372,135.513189,Osaka,Japan,Japanese,3,2
+2024,35.027601,135.792708,Kyoto,Japan,Japanese,3,2
+2024,34.685818,135.503519,Osaka,Japan,"French, Contemporary",4,2
+2024,34.683037,135.511871,Osaka,Japan,Innovative,4,2
+2024,35.00237,135.775871,Kyoto,Japan,Japanese,4,2
+2024,35.000922,135.76047,Kyoto,Japan,Japanese,3,2
+2024,35.003349,135.774545,Kyoto,Japan,Japanese,4,2
+2024,35.022114,135.750507,Kyoto,Japan,Japanese,4,2
+2024,35.002538,135.769152,Kyoto,Japan,Chinese,3,2
+2024,35.003191,135.755967,Kyoto,Japan,Japanese,4,2
+2024,34.662195,135.51986,Osaka,Japan,Sushi,3,2
+2024,34.999797,135.778857,Kyoto,Japan,Japanese,4,2
+2024,35.006215,135.776646,Kyoto,Japan,Innovative,3,2
+2024,35.035717,135.771236,Kyoto,Japan,Japanese,4,2
+2024,34.664773,135.521663,Osaka,Japan,Japanese,3,2
+2024,35.050744,135.73416,Kyoto,Japan,Japanese,4,2
+2024,34.760534,135.490966,Osaka,Japan,"Tempura, Japanese",3,2
+2024,35.233154,135.793011,Kyoto,Japan,Japanese,3,2
+2024,35.003449,135.770647,Kyoto,Japan,Japanese,3,2
+2024,34.697522,135.499685,Osaka,Japan,Innovative,4,2
+2024,34.998809,135.774574,Kyoto,Japan,Japanese,4,2
+2024,34.697954,135.497901,Osaka,Japan,Tempura,4,2
+2024,35.002345,135.775255,Kyoto,Japan,Japanese,4,2
+2024,35.001635,135.779734,Kyoto,Japan,Japanese,4,2
+2024,35.8962481,14.5141768,Valletta,Malta,Mediterranean Cuisine,4,2
+2024,50.1214911,8.6565825,Frankfurt on the Main,Germany,"Modern French, Creative",4,2
+2024,47.4620032,11.1869112,Krün,Germany,"Modern Cuisine, Creative",4,2
+2024,53.565225,9.9980345,Hamburg,Germany,Modern Cuisine,4,2
+2024,50.9274173,6.9657432,Cologne,Germany,"Modern Cuisine, Creative",4,2
+2024,47.9655184,8.5471151,Donaueschingen,Germany,"Modern Cuisine, Classic Cuisine",4,2
+2024,54.3025337,10.7656888,Weissenhaus,Germany,"Creative, Classic Cuisine",4,2
+2024,50.1073707,11.6069241,Wirsberg,Germany,"Creative, Modern Cuisine",4,2
+2024,47.8213714,8.1905051,Schluchsee,Germany,"Modern French, Creative",4,2
+2024,47.6340765,13.0468265,Berchtesgaden,Germany,"Modern Cuisine, Contemporary",4,2
+2024,54.8225486,9.4999203,Glücksburg,Germany,"Classic Cuisine, Modern Cuisine",4,2
+2024,47.6671426,9.1874594,Constance,Germany,"Creative French, International",4,2
+2024,53.5554424,9.9914638,Hamburg,Germany,"Creative French, Classic Cuisine",4,2
+2024,49.4575467,11.0536916,Nuremberg,Germany,"Creative, Regional Cuisine",4,2
+2024,52.5070342,13.3933841,Berlin,Germany,"Asian, German",4,2
+2024,52.5159333,13.380011,Berlin,Germany,Creative,4,2
+2024,52.4900681,13.4274391,Berlin,Germany,"Creative, Innovative",4,2
+2024,52.3701441,9.7607489,Hanover,Germany,"Creative, Modern Cuisine",4,2
+2024,49.2436455,9.5258355,Zweiflingen,Germany,Classic French,4,2
+2024,53.5430154,9.9943521,Hamburg,Germany,"Mediterranean Cuisine, Creative",4,2
+2024,53.5374323,10.0285764,Hamburg,Germany,"Creative, Modern Cuisine",4,2
+2024,52.5090625,13.3737404,Berlin,Germany,"Creative, Contemporary",4,2
+2024,48.137597,11.577475,Munich,Germany,"Modern Cuisine, Japanese Contemporary",4,2
+2024,48.1697565,11.588259,Munich,Germany,"French Contemporary, Classic Cuisine",4,2
+2024,49.4077831,8.184894,Deidesheim,Germany,"Creative, Modern Cuisine",4,2
+2024,52.4963922,13.420793,Berlin,Germany,Creative,4,2
+2024,52.3700128,9.7338212,Hanover,Germany,"Creative, Modern Cuisine",4,2
+2024,51.9638925,7.6294251,Münster,Germany,"Modern French, Creative",4,2
+2024,48.1402487,11.5735681,Munich,Germany,"Creative French, Seasonal Cuisine",4,2
+2024,48.259724,7.7251226,Rust,Germany,"Modern Cuisine, Classic French",4,2
+2024,49.2295502,7.0076258,Saarbrücken,Germany,Classic French,4,2
+2024,49.2349097,6.9996028,Saarbrücken,Germany,"Classic Cuisine, Creative",4,2
+2024,49.455062,11.0748188,Nuremberg,Germany,"Innovative, Farm to table",4,2
+2024,48.1360691,11.5704952,Munich,Germany,"Classic Cuisine, Modern Cuisine",4,2
+2024,49.3383934,12.2619376,Neunburg vorm Wald,Germany,"Creative, Contemporary",4,2
+2024,50.9665691,7.1604778,Bergisch Gladbach,Germany,"Creative, Classic French",4,2
+2024,49.4858598,8.4699546,Mannheim,Germany,"Modern Cuisine, Creative",4,2
+2024,48.712699,9.2137792,Stuttgart,Germany,"Creative, Innovative",4,2
+2024,54.8536822,8.2887697,Rantum,Germany,"Modern Cuisine, Creative",4,2
+2024,48.1766707,11.557409,Munich,Germany,"Modern French, Creative",4,2
+2024,50.5509788,7.1642775,Bad Neuenahr-Ahrweiler,Germany,"Classic French, Classic Cuisine",4,2
+2024,49.0062467,8.3818104,Karlsruhe,Germany,"Modern Cuisine, Creative",4,2
+2024,47.6941309,11.7538484,Rottach-Egern,Germany,"Creative French, Modern Cuisine",4,2
+2024,48.3710103,10.9126019,Augsburg,Germany,Creative,4,2
+2024,48.4574092,8.2507048,Bad Peterstal,Germany,"Classic French, Seasonal Cuisine",4,2
+2024,47.8404612,7.7088806,Sulzburg,Germany,"Creative, Seasonal Cuisine",4,2
+2024,49.3172819,6.7552911,Saarlouis,Germany,"Creative, Modern French",4,2
+2024,48.1383054,11.5771585,Munich,Germany,"Creative, Modern Cuisine",4,2
+2024,45.4144213,6.6349308,Courchevel,France,Creative,4,2
+2024,43.8511871,5.3018513,Bonnieux,France,Modern Cuisine,4,2
+2024,43.1923476,6.6481676,Ramatuelle,France,Modern Cuisine,4,2
+2024,43.7405056,7.4275615,Monaco,France,"Modern Cuisine, Mediterranean Cuisine",4,2
+2024,48.8662069,2.3164988,Paris,France,"Japanese, Creative",4,2
+2024,47.1547317,-2.2134222,La Plaine-sur-Mer,France,Creative,4,2
+2024,48.8673498,2.3098732,Paris,France,Creative,4,2
+2024,48.8720257,2.3143813,Paris,France,Modern Cuisine,4,2
+2024,43.1743172,2.9918502,Narbonne,France,"Creative, Modern Cuisine",4,2
+2024,48.1804523,-4.2351146,Plomodiern,France,Creative,4,2
+2024,43.7014072,7.2718302,Nice,France,Creative,4,2
+2024,48.8707602,2.2933134,Paris,France,Creative,4,2
+2024,43.8388191,4.3527079,Nîmes,France,Modern Cuisine,4,2
+2024,48.86525,2.3278399,Paris,France,Creative,4,2
+2024,50.4710226,1.7544175,La Madelaine-sous-Montreuil,France,Creative,4,2
+2024,44.5493811,-0.3374123,Bommes,France,Modern Cuisine,4,2
+2024,47.2797873,4.2321852,Saulieu,France,Modern Cuisine,4,2
+2024,49.2528607,4.03752,Reims,France,Creative,4,2
+2024,45.1417394,5.8315479,Uriage-les-Bains,France,"Creative, Modern Cuisine",4,2
+2024,48.4620365,7.488355,Obernai,France,Modern Cuisine,4,2
+2024,43.7679586,4.4229251,Garons,France,Modern Cuisine,4,2
+2024,43.599313,1.4408583,Toulouse,France,Creative,4,2
+2024,48.8499883,2.3279216,Paris,France,Modern Cuisine,4,2
+2024,48.85756,2.29462,Paris,France,Modern Cuisine,4,2
+2024,48.8602663,2.3097038,Paris,France,Creative,4,2
+2024,43.5907291,1.149996,Pujaudran,France,Modern Cuisine,4,2
+2024,48.1844003,7.433043,Illhaeusern,France,Classic Cuisine,4,2
+2024,48.1386233,7.265581,Kaysersberg,France,Creative,4,2
+2024,48.0755636,7.3533263,Colmar,France,Creative,4,2
+2024,44.8442761,3.0019613,Chaudes-Aigues,France,Creative,4,2
+2024,44.8424463,-0.5747973,Bordeaux,France,Modern Cuisine,4,2
+2024,50.581874,2.5070873,Busnes,France,Modern Cuisine,4,2
+2024,48.8701983,2.3193146,Paris,France,Creative,4,2
+2024,47.9833796,3.3853151,Joigny,France,Modern Cuisine,4,2
+2024,48.8566248,2.3391955,Paris,France,Modern Cuisine,4,2
+2024,48.8687851,2.3008263,Paris,France,Modern Cuisine,4,2
+2024,48.8486151,2.3759654,Paris,France,Modern Cuisine,4,2
+2024,45.8393308,6.210543,Talloires-Montmin,France,Creative,4,2
+2024,44.7310086,-0.5571095,Martillac,France,Modern Cuisine,4,2
+2024,45.7886787,3.0519431,Clermont-Ferrand,France,Creative,4,2
+2024,44.6807175,2.8938527,Laguiole,France,Creative,4,2
+2024,45.8072811,6.2486842,Talloires-Montmin,France,"Creative, Mediterranean Cuisine",4,2
+2024,48.874195,2.3024829,Paris,France,Classic Cuisine,4,2
+2024,48.8800665,7.7224093,Laubach,France,Modern Cuisine,4,2
+2024,48.8658943,2.3391432,Paris,France,"Creative, Modern Cuisine",4,2
+2024,45.7449451,5.7982975,Jongieux,France,"Creative, Modern Cuisine",4,2
+2024,46.7567708,4.8200267,Saint-Rémy,France,"Creative, Modern Cuisine",4,2
+2024,48.9185,7.365027,Wingen-sur-Moder,France,"Creative, Modern Cuisine",4,2
+2024,45.4122032,6.638871,Courchevel,France,Creative,4,2
+2024,45.3690463,6.5133065,Saint-Martin-de-Belleville,France,"Creative, Regional Cuisine",4,2
+2024,49.2410909,4.0517461,Reims,France,Modern Cuisine,4,2
+2024,44.606014,-1.20669,Pyla-sur-Mer,France,Modern Cuisine,4,2
+2024,43.7488966,7.4379746,Monaco,France,Creative,4,2
+2024,45.7704797,4.842588,Lyon,France,Creative,4,2
+2024,44.8934495,-0.1566263,Saint-Emilion,France,Creative,4,2
+2024,48.1533015,-1.6805561,Saint-Grégoire,France,Modern Cuisine,4,2
+2024,45.8156437,4.8475623,Collonges-au-Mont-d'Or,France,Classic Cuisine,4,2
+2024,43.727378,7.3620885,Èze,France,Creative,4,2
+2024,43.7787343,-1.2179647,Magescq,France,Classic Cuisine,4,2
+2024,45.7714309,4.8372034,Lyon,France,Classic Cuisine,4,2
+2024,46.1553629,-1.1599181,La Rochelle,France,"Seafood, Modern Cuisine",4,2
+2024,48.881407,2.2985363,Paris,France,Classic Cuisine,4,2
+2024,45.767953,4.8564194,Lyon,France,"Creative, Modern Cuisine",4,2
+2024,47.3212722,5.0356396,Dijon,France,"Creative, Modern Cuisine",4,2
+2024,44.7169426,3.2877885,Aumont-Aubrac,France,"Creative, Modern Cuisine",4,2
+2024,45.41616,6.629984,Courchevel,France,Modern Cuisine,4,2
+2024,43.2013363,2.3603104,Carcassonne,France,"Modern Cuisine, Creative",4,2
+2024,47.5823386,1.3378048,Blois,France,"Modern Cuisine, Creative",4,2
+2024,48.6430654,-1.8711232,Saint-Méloir-des-Ondes,France,"Seafood, Creative",4,2
+2024,45.8889235,6.1721868,Veyrier-du-Lac,France,Creative,4,2
+2024,45.9226978,6.171891,Annecy,France,Creative,4,2
+2024,41.5948102,9.3099771,Porto-Vecchio,France,Modern Cuisine,4,2
+2024,43.5716556,7.014556,Le Cannet,France,Modern Cuisine,4,2
+2024,45.5166376,4.8668625,Vienne,France,Modern Cuisine,4,2
+2024,22.2801399,114.175716,Hong Kong,,Cantonese,3,2
+2024,22.190475,113.54341,Macau,,Cantonese,4,2
+2024,22.2805311,114.1577065,Hong Kong,,French Contemporary,4,2
+2024,22.2799005,114.1761315,Hong Kong,,French Contemporary,4,2
+2024,22.189952,113.5479285,Macau,,"Hunanese, Sichuan",2,2
+2024,22.3032802,114.1598747,Hong Kong,Hong Kong SAR China,Cantonese,3,2
+2024,22.2855757,114.1477192,Hong Kong,Hong Kong SAR China,Innovative,4,2
+2024,22.284338,114.156654,Hong Kong,Hong Kong SAR China,Cantonese,3,2
+2024,22.1458883,113.5652198,Macau,,Huaiyang,3,2
+2024,22.2860122,114.1580538,Hong Kong,Hong Kong SAR China,Cantonese,3,2
+2024,22.1501736,113.5669767,Macau,,French Contemporary,4,2
+2024,22.2823708,114.154711,Hong Kong,Hong Kong SAR China,Innovative,3,2
+2024,22.286618,114.1566761,Hong Kong,Hong Kong SAR China,Italian Contemporary,4,2
+2024,22.188028,113.54578,Macau,,Cantonese,3,2
+2024,22.293337,114.17395,Hong Kong,Hong Kong SAR China,Cantonese,3,2
+2024,22.2829955,114.1552579,Hong Kong,Hong Kong SAR China,Innovative,4,2
+2024,22.1886966,113.5449903,Macau,,Japanese,4,2
+2024,22.2825493,114.1571177,Hong Kong,Hong Kong SAR China,Italian,4,2
+2024,41.1336845,-8.6133869,Vila Nova de Gaia,Portugal,Creative,4,2
+2024,37.08059,-8.31367,Albufeira,Portugal,Modern Cuisine,4,2
+2024,41.14776,-8.62831,Porto,Portugal,Creative,4,2
+2024,37.1008268,-8.3792041,Porches,Portugal,Creative,4,2
+2024,38.7101662,-9.1411358,Lisbon,Portugal,Creative,4,2
+2024,38.7104102,-9.1415741,Lisbon,Portugal,"Creative, Portuguese",4,2
+2024,41.2027411,-8.7147233,Leça da Palmeira,Portugal,Seafood,4,2
+2024,32.6382988,-16.9266478,Funchal,Portugal,Modern Cuisine,4,2
+2024,49.5978074,6.2493973,Oetrange,Luxembourg,Modern Cuisine,4,2
+2024,50.3636851,4.8469885,Arbre,Belgium,"Modern French, Modern Cuisine",4,2
+2024,51.2145635,4.4054987,Antwerpen,Belgium,"Creative, Asian Influences",4,2
+2024,50.7995831,4.3784982,Brussels,Belgium,"Modern Cuisine, Classic Cuisine",4,2
+2024,51.0511061,3.7288256,Gent,Belgium,"Creative, Modern Cuisine",4,2
+2024,50.8442362,4.3598358,Brussels,Belgium,"Modern French, Creative",4,2
+2024,51.0431658,5.6159232,Opglabbeek,Belgium,Traditional Cuisine,4,2
+2024,50.5927328,4.8329862,Liernu,Belgium,"Creative, Modern Cuisine",4,2
+2024,51.0957136,4.505835,Duffel,Belgium,Creative,4,2
+2024,50.7842411,4.3868414,Uccle,Belgium,"Creative, Modern French",4,2
+2024,50.9039501,3.5098648,Kruishoutem,Belgium,Creative,4,2
+2024,49.959957,5.122613,Our,Belgium,"Modern Cuisine, French",4,2
+2024,50.9152264,5.6676398,Neerharen,Belgium,"Creative, Modern French",4,2
+2024,51.341769,3.2436215,Heist,Belgium,Modern Cuisine,4,2
+2024,50.8056605,4.1554453,Sint-Kwintens-Lennik,Belgium,Modern Cuisine,3,2
+2024,50.8720569,3.3430165,Beveren-Leie,Belgium,Modern French,4,2
+2024,50.8437035,4.3281195,Anderlecht,Belgium,"Asian Influences, Creative",4,2
+2024,50.4833038,3.8379089,Baudour,Belgium,"Classic French, Traditional Cuisine",4,2
+2024,51.2309534,5.3097212,Lommel,Belgium,"Creative, Modern Cuisine",4,2
+2024,50.9119799,3.1957656,Izegem,Belgium,"Creative, Modern Cuisine",4,2
+2024,51.2023273,4.4233593,Antwerpen,Belgium,Creative,4,2
+2024,51.207236,3.2777835,Sint-Kruis,Belgium,Creative,4,2
+2024,37.52437,127.04355,Seoul,South Korea,Korean,4,2
+2024,37.52535,127.04426,Seoul,South Korea,"Korean, Korean Contemporary",4,2
+2024,37.555813,127.00517,Seoul,South Korea,"Korean, Modern Cuisine",4,2
+2024,37.51933,127.01903,Seoul,South Korea,Innovative,4,2
+2024,37.52559,127.04193,Seoul,South Korea,Sushi,4,2
+2024,37.52206,127.04502,Seoul,South Korea,Japanese,4,2
+2024,37.51346,127.02602,Seoul,South Korea,Innovative,4,2
+2024,37.5036,127.0418,Seoul,South Korea,"Contemporary, Seasonal Cuisine",4,2
+2024,51.5696616,-0.7836567,Marlow,United Kingdom,Modern British,4,2
+2024,51.5085431,-0.141547,London,United Kingdom,Indian,4,2
+2024,52.2120545,0.1284006,Cambridge,United Kingdom,Creative,4,2
+2024,56.3890265,-3.8527163,Crieff,United Kingdom,Modern Cuisine,4,2
+2024,52.5445284,-3.9439501,Machynlleth,United Kingdom,Creative,4,2
+2024,52.9251069,-1.1676041,Nottingham,United Kingdom,Creative,4,2
+2024,56.2832316,-3.7517344,Auchterarder,United Kingdom,Modern French,4,2
+2024,52.481614,-1.9079211,Birmingham,United Kingdom,Indian,4,2
+2024,51.7169058,-1.0915663,Great Milton,United Kingdom,French,4,2
+2024,51.4930091,-0.1406558,London,United Kingdom,Chinese,4,2
+2024,51.5100201,-0.1359557,London,United Kingdom,Modern French,4,2
+2024,53.354379,-6.2639708,Dublin City,Ireland,Modern Cuisine,4,2
+2024,51.5028085,-0.077787,London,United Kingdom,Modern Cuisine,4,2
+2024,53.3011683,-6.178472,Blackrock,Ireland,Creative,4,2
+2024,51.5101629,-0.0779535,London,United Kingdom,"Modern French, French Contemporary",4,2
+2024,51.5271054,-0.0793371,London,United Kingdom,Creative,4,2
+2024,51.5203616,-0.13647,London,United Kingdom,Modern Cuisine,4,2
+2024,51.4933623,-0.1688013,London,United Kingdom,French,4,2
+2024,51.9117525,-8.0596578,Castlemartyr,Ireland,Modern Cuisine,4,2
+2024,51.4835036,-9.3725309,Baltimore,Ireland,"Turkish, Creative",4,2
+2024,53.338452,-6.2529969,Dublin City,Ireland,Modern French,4,2
+2024,51.512381,-0.1154759,London,United Kingdom,Creative,4,2
+2024,51.5021106,-0.1599147,London,United Kingdom,Traditional British,4,2
+2024,51.502205,-0.084674,London,United Kingdom,Modern Cuisine,4,2
+2024,53.5423365,-2.8919183,Aughton,United Kingdom,Modern British,4,2
+2024,51.530411,-0.05607,London,United Kingdom,Creative,4,2
+2024,51.5017267,-0.1518849,London,United Kingdom,Modern Cuisine,4,2
+2024,-34.5916443,-58.3891732,Buenos Aires,Argentina,Creative,4,2
+2024,41.058398,28.977656,Istanbul,Türkiye,"Modern Cuisine, Turkish",4,2
+2024,38.9158847,-77.0321498,Washington,USA,Contemporary,4,2
+2024,38.896294,-77.02386,Washington,USA,Contemporary,4,2
+2024,38.880707,-76.99514,Washington,USA,Contemporary,4,2
+2024,40.7407048,-73.9929904,New York,USA,"Japanese, Contemporary",4,2
+2024,41.1007146,-73.8292966,Tarrytown,USA,"American, Contemporary",4,2
+2024,40.706144,-74.0078519,New York,USA,Contemporary,4,2
+2024,40.76106,-73.97628,New York,USA,Contemporary,4,2
+2024,40.77384,-73.958275,New York,USA,"Japanese, Sushi",4,2
+2024,40.7443058,-73.9826751,New York,USA,"Korean, Contemporary",4,2
+2024,40.7667521,-73.9675039,New York,USA,French,4,2
+2024,40.75397,-73.982025,New York,USA,"Contemporary, Alsatian",4,2
+2024,40.76907,-73.98155,New York,USA,"Contemporary, French Contemporary",4,2
+2024,40.7168498,-74.0055912,New York,USA,Contemporary,4,2
+2024,40.7123772,-73.9667551,Brooklyn,USA,"Scandinavian, Contemporary",4,2
+2024,40.76078,-73.97214,New York,USA,"Scandinavian, Contemporary",4,2
+2024,40.7187256,-74.0091114,New York,USA,"Korean, Contemporary",4,2
+2024,41.8862095,-87.6453022,Chicago,USA,"Contemporary, American Contemporary",4,2
+2024,41.8469648,-87.6252282,Chicago,USA,"Contemporary, American Contemporary",4,2
+2024,41.8868389,-87.6604258,Chicago,USA,"Creative, Modern Cuisine",4,2
+2024,37.9388218,23.6920295,Athens,Greece,"Creative, Greek",4,2
+2024,47.5001729,19.0596687,Budapest,Hungary,"Modern Cuisine, Hungarian",4,2
+2024,47.6478063,18.3183168,Tata,Hungary,"Creative, Hungarian",4,2
+2024,48.2313246,16.3762794,Vienna,Austria,Creative,4,2
+2024,47.7935688,13.0078642,Salzburg,Austria,"Creative, Modern Cuisine",4,2
+2024,48.2043967,16.3815669,Vienna,Austria,"Creative, Contemporary",4,2
+2024,48.2058003,16.3770073,Vienna,Austria,Modern Cuisine,4,2
+2024,48.2107279,16.3797942,Vienna,Austria,Modern Cuisine,4,2
+2024,47.8361594,13.063525,Salzburg,Austria,Creative,4,2
+2024,37.525584,127.041069,Seoul,South Korea,Contemporary,4,2
